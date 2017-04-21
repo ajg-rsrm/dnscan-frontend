@@ -1,0 +1,23 @@
+{
+  "name": "dnscan_frontend",
+  "version": "1.0.0",
+  "description": "Frontend of attempt to remake dnsdumpster.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajg-rsrm/dnscan_frontend.git"
+  },
+  "keywords": [
+    "dns",
+    "scan"
+  ],
+  "author": "Alex J. Gardner and Robert S.R. Myers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajg-rsrm/dnscan_frontend/issues"
+  },
+  "homepage": "https://github.com/ajg-rsrm/dnscan_frontend#readme"
+}
